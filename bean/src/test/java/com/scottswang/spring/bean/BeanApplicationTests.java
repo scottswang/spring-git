@@ -72,6 +72,5 @@ public class BeanApplicationTests {
     public void printBean() {
         //OtherBean beans = beanFactory.getBean(OtherBean.class);
     }
-
 }
 
