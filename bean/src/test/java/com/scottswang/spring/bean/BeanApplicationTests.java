@@ -73,7 +73,5 @@ public class BeanApplicationTests {
         //OtherBean beans = beanFactory.getBean(OtherBean.class);
     }
 
-    
-
 }
 
