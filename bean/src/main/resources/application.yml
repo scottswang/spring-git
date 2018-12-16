@@ -1,0 +1,12 @@
+bean:
+  connections:
+    master:
+      username: master
+      password: passwd1
+      remoteAddress: 192.168.1.1
+    slave:
+      username: slave
+      password: passwd2
+      remoteAddress: 192.168.1.2
+
+init-bean: true
